@@ -1,0 +1,25 @@
+/*
+* Anna Kelly
+* 3/13/19
+* School Scedule
+*/
+
+/* the universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body {   
+}
+table,td,th{border:2px solid }
+
+table {border-collapse: collapse;}
+
+thead {background-color:skyblue;}
+
+tbody {background-color:lightcyan}
+
+tfoot {background-color:skyblue;}
